@@ -1,0 +1,75 @@
+{
+  "productList": [
+    {
+      "productName": "Nataraj",
+      "category": "Notebooks",
+      "nature": "Good",
+      "price": 4000,
+      "comment": "came in good condition",
+      "date": "2023-03-03T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "HB",
+      "category": "Pens",
+      "nature": "Good",
+      "price": 4089,
+      "comment": "came in good condition",
+      "date": "2016-06-21T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Nataraj",
+      "category": "Notebooks",
+      "nature": "Good",
+      "price": 4000,
+      "comment": "came in good condition",
+      "date": "2023-03-03T21:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Present & Correct.",
+      "category": "Pencils",
+      "nature": "Good",
+      "price": 4000,
+      "comment": "came in good condition",
+      "date": "2023-03-03T21:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Fred Aldous.",
+      "category": "Eraser",
+      "nature": "Good",
+      "price": 4000,
+      "comment": "came in good condition but 2 broken",
+      "date": "2023-03-04T21:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Hato.",
+      "category": "Covers",
+      "nature": "Good",
+      "price": 9888,
+      "comment": "perfect",
+      "date": "2017-04-06T21:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Before Breakfast.",
+      "category": "Notebooks",
+      "nature": "Good",
+      "price": 9986,
+      "comment": "perfect",
+      "date": "2017-04-03T21:00:00.000Z",
+      "id": 9
+    }
+  ],
+  "postProduct": [
+    {
+      
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
